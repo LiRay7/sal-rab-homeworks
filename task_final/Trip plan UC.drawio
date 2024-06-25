@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T20:33:51.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="909FwuT7BAWy-oBgUsHe" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T20:41:59.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="p_1wNtQVz0DoMzr5ZvAz" version="24.6.3" type="github">
   <diagram name="Страница — 1" id="Ok-m3F2jx5x2fQCQR_L3">
     <mxGraphModel dx="934" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="90" y="80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9M6_-3urOuxoyCKMN0X-13" value="" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9M6_-3urOuxoyCKMN0X-14" value="Авторизация" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" parent="c9M6_-3urOuxoyCKMN0X-13" vertex="1">
           <mxGeometry x="-7.5" y="25.71" width="112.5" height="4.29" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9M6_-3urOuxoyCKMN0X-19" value="" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="45" width="146" height="70" as="geometry" />
+          <mxGeometry x="516.25" y="55" width="146" height="65" as="geometry" />
         </mxCell>
         <mxCell id="c9M6_-3urOuxoyCKMN0X-20" value="Авторизация через соцсери" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" parent="c9M6_-3urOuxoyCKMN0X-19" vertex="1">
-          <mxGeometry x="4.5600000000000005" y="30" width="136.88" height="5" as="geometry" />
+          <mxGeometry x="4.5600000000000005" y="27.857142857142858" width="136.88" height="4.642857142857143" as="geometry" />
         </mxCell>
         <mxCell id="c9M6_-3urOuxoyCKMN0X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="c9M6_-3urOuxoyCKMN0X-19" target="c9M6_-3urOuxoyCKMN0X-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -170,6 +170,19 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="299" y="290" as="sourcePoint" />
             <mxPoint x="302" y="211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3PLU-ScZeUqUtGSL2gd4-20" value="" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3PLU-ScZeUqUtGSL2gd4-21" value="Заполнение данных о себе" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" vertex="1" parent="3PLU-ScZeUqUtGSL2gd4-20">
+          <mxGeometry x="-7.5" y="25.71" width="112.5" height="4.29" as="geometry" />
+        </mxCell>
+        <mxCell id="3PLU-ScZeUqUtGSL2gd4-25" value="&amp;lt;&amp;lt;Includes&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.364;exitY=-0.037;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="c9M6_-3urOuxoyCKMN0X-13" target="3PLU-ScZeUqUtGSL2gd4-21">
+          <mxGeometry x="-0.0101" width="160" relative="1" as="geometry">
+            <mxPoint x="294" y="39.41" as="sourcePoint" />
+            <mxPoint x="364" y="39.41" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
