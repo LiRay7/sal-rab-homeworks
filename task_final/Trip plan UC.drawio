@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T20:41:59.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="p_1wNtQVz0DoMzr5ZvAz" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T21:06:35.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="jV_mwj_f7w2gG0xZOniB" version="24.6.3" type="github">
   <diagram name="Страница — 1" id="Ok-m3F2jx5x2fQCQR_L3">
-    <mxGraphModel dx="934" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,14 +137,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3PLU-ScZeUqUtGSL2gd4-9" value="" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" vertex="1" parent="1">
-          <mxGeometry x="108.75" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3PLU-ScZeUqUtGSL2gd4-10" value="Редактирование путешествия" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" vertex="1" parent="3PLU-ScZeUqUtGSL2gd4-9">
           <mxGeometry x="3.75" y="30" width="112.5" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="3PLU-ScZeUqUtGSL2gd4-11" value="" style="endArrow=none;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=bottom;endFill=0;rounded=0;exitX=0.567;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c9M6_-3urOuxoyCKMN0X-1" target="3PLU-ScZeUqUtGSL2gd4-9">
+        <mxCell id="3PLU-ScZeUqUtGSL2gd4-11" value="" style="endArrow=none;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=bottom;endFill=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3PLU-ScZeUqUtGSL2gd4-9">
           <mxGeometry y="3" relative="1" as="geometry">
-            <mxPoint x="115" y="120" as="sourcePoint" />
+            <mxPoint x="100" y="170" as="sourcePoint" />
             <mxPoint x="250" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -154,9 +154,9 @@
         <mxCell id="3PLU-ScZeUqUtGSL2gd4-15" value="Просмотр чужого путешествия" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" vertex="1" parent="3PLU-ScZeUqUtGSL2gd4-14">
           <mxGeometry x="3.75" y="30" width="112.5" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="3PLU-ScZeUqUtGSL2gd4-16" value="" style="endArrow=none;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=bottom;endFill=0;rounded=0;entryX=0.011;entryY=0.198;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3PLU-ScZeUqUtGSL2gd4-14">
+        <mxCell id="3PLU-ScZeUqUtGSL2gd4-16" value="" style="endArrow=none;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=bottom;endFill=0;rounded=0;entryX=0.021;entryY=0.316;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3PLU-ScZeUqUtGSL2gd4-14">
           <mxGeometry y="3" relative="1" as="geometry">
-            <mxPoint x="110" y="110" as="sourcePoint" />
+            <mxPoint x="110" y="170" as="sourcePoint" />
             <mxPoint x="179" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -183,6 +183,39 @@
             <mxPoint x="294" y="39.41" as="sourcePoint" />
             <mxPoint x="364" y="39.41" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3PLU-ScZeUqUtGSL2gd4-26" value="" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3PLU-ScZeUqUtGSL2gd4-27" value="Проверка путешествия" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" vertex="1" parent="3PLU-ScZeUqUtGSL2gd4-26">
+          <mxGeometry x="3.75" y="30" width="112.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3PLU-ScZeUqUtGSL2gd4-29" value="" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3PLU-ScZeUqUtGSL2gd4-30" value="Расчет трат по путешествию" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" vertex="1" parent="3PLU-ScZeUqUtGSL2gd4-29">
+          <mxGeometry x="3.75" y="30" width="112.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3PLU-ScZeUqUtGSL2gd4-31" value="" style="endArrow=none;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=bottom;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3PLU-ScZeUqUtGSL2gd4-26">
+          <mxGeometry y="3" relative="1" as="geometry">
+            <mxPoint x="100" y="160" as="sourcePoint" />
+            <mxPoint x="179" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="190" />
+              <mxPoint x="90" y="190" />
+              <mxPoint x="90" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3PLU-ScZeUqUtGSL2gd4-32" value="" style="endArrow=none;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=bottom;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3PLU-ScZeUqUtGSL2gd4-29">
+          <mxGeometry y="3" relative="1" as="geometry">
+            <mxPoint x="80" y="134" as="sourcePoint" />
+            <mxPoint x="110" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="134" />
+              <mxPoint x="40" y="490" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
